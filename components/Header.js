@@ -9,6 +9,9 @@ export default function Header({ name }) {
           <a>{name}</a>
         </Link>
       </p>
+      <p className="text-1xl dark:text-white text-center">
+        Self-Taught Developer
+      </p>
     </header>
   );
 }

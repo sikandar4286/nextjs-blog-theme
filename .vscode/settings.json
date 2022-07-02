@@ -1,0 +1,18 @@
+{
+    "workbench.colorCustomizations": {
+        "[Monokai Dimmed]": {
+            "sideBar.background": "#000000",
+            "activityBar.background": "#000000",
+            "activityBar.foreground": "#ffffff",
+            "editor.background": "#000000",
+            "focusBorder": "#000000",
+            "foreground": "#cfcfcf",
+            "statusBar.background": "#000000",
+            "tab.activeBackground": "#000000"
+        },
+        "[Bold Contrast (rainglow)]": {
+            "statusBar.background": "#1f1f1f",
+            "focusBorder": "#131313"
+        }
+    }
+}
